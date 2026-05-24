@@ -1,1 +1,0 @@
-# Siesmic_Activity_Detectec
